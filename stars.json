@@ -1,7 +1,7 @@
 [
   {
     "full_name": "bagder/uncurled",
-    "stargazers_count": 255,
+    "stargazers_count": 256,
     "open_issues_count": 4,
     "forks_count": 31
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "rhaiscript/rhai",
-    "stargazers_count": 1855,
+    "stargazers_count": 1856,
     "open_issues_count": 20,
     "forks_count": 115
   },
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "haimgel/display-switch",
-    "stargazers_count": 2150,
+    "stargazers_count": 2151,
     "open_issues_count": 23,
     "forks_count": 81
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 1523,
+    "stargazers_count": 1524,
     "open_issues_count": 5,
     "forks_count": 40
   },
@@ -45,7 +45,7 @@
     "full_name": "dtolnay/proc-macro-workshop",
     "stargazers_count": 1921,
     "open_issues_count": 2,
-    "forks_count": 505
+    "forks_count": 506
   },
   {
     "full_name": "georgedoescode/generative-utils",
@@ -85,20 +85,20 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 36629,
+    "stargazers_count": 36633,
     "open_issues_count": 6,
-    "forks_count": 5350
+    "forks_count": 5352
   },
   {
     "full_name": "yaahc/color-eyre",
     "stargazers_count": 533,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 31
   },
   {
     "full_name": "rustwasm/wasm-bindgen",
-    "stargazers_count": 5252,
-    "open_issues_count": 394,
+    "stargazers_count": 5251,
+    "open_issues_count": 395,
     "forks_count": 728
   },
   {
@@ -122,18 +122,18 @@
   {
     "full_name": "cargo-generate/cargo-generate",
     "stargazers_count": 988,
-    "open_issues_count": 31,
+    "open_issues_count": 26,
     "forks_count": 102
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 22047,
+    "stargazers_count": 22049,
     "open_issues_count": 101,
-    "forks_count": 1081
+    "forks_count": 1082
   },
   {
     "full_name": "keycastr/keycastr",
-    "stargazers_count": 8445,
+    "stargazers_count": 8447,
     "open_issues_count": 69,
     "forks_count": 416
   },
@@ -146,7 +146,7 @@
   {
     "full_name": "rust-lang/rust-analyzer",
     "stargazers_count": 9708,
-    "open_issues_count": 1016,
+    "open_issues_count": 1019,
     "forks_count": 973
   },
   {
