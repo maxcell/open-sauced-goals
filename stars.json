@@ -7,13 +7,13 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 33646,
-    "open_issues_count": 375,
-    "forks_count": 779
+    "stargazers_count": 33793,
+    "open_issues_count": 384,
+    "forks_count": 781
   },
   {
     "full_name": "bagder/uncurled",
-    "stargazers_count": 374,
+    "stargazers_count": 377,
     "open_issues_count": 4,
     "forks_count": 38
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "rhaiscript/rhai",
-    "stargazers_count": 2092,
+    "stargazers_count": 2097,
     "open_issues_count": 17,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "full_name": "prismicio-community/prismicio-next-example",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "haimgel/display-switch",
-    "stargazers_count": 2209,
-    "open_issues_count": 28,
+    "stargazers_count": 2213,
+    "open_issues_count": 27,
     "forks_count": 85
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 1651,
-    "open_issues_count": 13,
-    "forks_count": 47
+    "stargazers_count": 1660,
+    "open_issues_count": 15,
+    "forks_count": 48
   },
   {
     "full_name": "dtolnay/proc-macro-workshop",
-    "stargazers_count": 2183,
+    "stargazers_count": 2190,
     "open_issues_count": 2,
-    "forks_count": 560
+    "forks_count": 563
   },
   {
     "full_name": "georgedoescode/generative-utils",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "rylev/DMG-01",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 31,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "tayiorbeii/secret-stuff",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "twitch-rs/twitch_api",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 34,
     "forks_count": 14
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 41825,
-    "open_issues_count": 10,
-    "forks_count": 6136
+    "stargazers_count": 42088,
+    "open_issues_count": 11,
+    "forks_count": 6174
   },
   {
     "full_name": "yaahc/color-eyre",
-    "stargazers_count": 605,
+    "stargazers_count": 604,
     "open_issues_count": 16,
     "forks_count": 34
   },
   {
     "full_name": "rustwasm/wasm-bindgen",
-    "stargazers_count": 5587,
-    "open_issues_count": 413,
-    "forks_count": 770
+    "stargazers_count": 5590,
+    "open_issues_count": 414,
+    "forks_count": 773
   },
   {
     "full_name": "toastdotdev/toast",
@@ -133,33 +133,33 @@
   },
   {
     "full_name": "cargo-generate/cargo-generate",
-    "stargazers_count": 1078,
-    "open_issues_count": 32,
+    "stargazers_count": 1080,
+    "open_issues_count": 33,
     "forks_count": 108
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 23475,
-    "open_issues_count": 104,
-    "forks_count": 1142
+    "stargazers_count": 23528,
+    "open_issues_count": 98,
+    "forks_count": 1148
   },
   {
     "full_name": "keycastr/keycastr",
-    "stargazers_count": 9043,
+    "stargazers_count": 9070,
     "open_issues_count": 70,
-    "forks_count": 432
+    "forks_count": 433
   },
   {
     "full_name": "dotenv-linter/dotenv-linter",
-    "stargazers_count": 1440,
-    "open_issues_count": 4,
+    "stargazers_count": 1444,
+    "open_issues_count": 5,
     "forks_count": 125
   },
   {
     "full_name": "rust-lang/rust-analyzer",
-    "stargazers_count": 10443,
-    "open_issues_count": 1121,
-    "forks_count": 1054
+    "stargazers_count": 10484,
+    "open_issues_count": 1123,
+    "forks_count": 1061
   },
   {
     "full_name": "domitriusclark/mdnext",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "code-hike/codehike",
-    "stargazers_count": 2573,
+    "stargazers_count": 2587,
     "open_issues_count": 25,
     "forks_count": 63
   }
