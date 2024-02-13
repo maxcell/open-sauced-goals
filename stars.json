@@ -1,9 +1,9 @@
 [
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 13089,
-    "open_issues_count": 75,
-    "forks_count": 219
+    "stargazers_count": 13116,
+    "open_issues_count": 76,
+    "forks_count": 218
   },
   {
     "full_name": "xanderjl/p5-starter",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 68017,
-    "open_issues_count": 2383,
-    "forks_count": 2288
+    "stargazers_count": 68103,
+    "open_issues_count": 2419,
+    "forks_count": 2303
   },
   {
     "full_name": "bagder/uncurled",
-    "stargazers_count": 809,
+    "stargazers_count": 810,
     "open_issues_count": 6,
     "forks_count": 49
   },
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "rhaiscript/rhai",
-    "stargazers_count": 3322,
+    "stargazers_count": 3326,
     "open_issues_count": 30,
     "forks_count": 159
   },
   {
     "full_name": "haimgel/display-switch",
-    "stargazers_count": 2654,
-    "open_issues_count": 20,
-    "forks_count": 105
+    "stargazers_count": 2712,
+    "open_issues_count": 21,
+    "forks_count": 106
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 3718,
+    "stargazers_count": 3722,
     "open_issues_count": 107,
-    "forks_count": 127
+    "forks_count": 128
   },
   {
     "full_name": "dtolnay/proc-macro-workshop",
-    "stargazers_count": 3562,
+    "stargazers_count": 3571,
     "open_issues_count": 1,
-    "forks_count": 902
+    "forks_count": 905
   },
   {
     "full_name": "georgedoescode/generative-utils",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "BenDMyers/showmy.chat",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 30,
     "forks_count": 25
   },
   {
     "full_name": "stevenpetryk/mafs",
-    "stargazers_count": 3118,
+    "stargazers_count": 3120,
     "open_issues_count": 25,
     "forks_count": 78
   },
   {
     "full_name": "rylev/DMG-01",
-    "stargazers_count": 184,
+    "stargazers_count": 185,
     "open_issues_count": 40,
     "forks_count": 19
   },
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 63218,
-    "open_issues_count": 1,
-    "forks_count": 8864
+    "stargazers_count": 63334,
+    "open_issues_count": 0,
+    "forks_count": 8876
   },
   {
     "full_name": "eyre-rs/color-eyre",
-    "stargazers_count": 889,
+    "stargazers_count": 894,
     "open_issues_count": 39,
     "forks_count": 56
   },
   {
     "full_name": "rustwasm/wasm-bindgen",
-    "stargazers_count": 7101,
-    "open_issues_count": 461,
-    "forks_count": 1019
+    "stargazers_count": 7110,
+    "open_issues_count": 458,
+    "forks_count": 1020
   },
   {
     "full_name": "toastdotdev/toast",
@@ -133,33 +133,33 @@
   },
   {
     "full_name": "cargo-generate/cargo-generate",
-    "stargazers_count": 1695,
-    "open_issues_count": 42,
-    "forks_count": 151
+    "stargazers_count": 1698,
+    "open_issues_count": 44,
+    "forks_count": 152
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 29458,
-    "open_issues_count": 160,
+    "stargazers_count": 29482,
+    "open_issues_count": 162,
     "forks_count": 1430
   },
   {
     "full_name": "keycastr/keycastr",
-    "stargazers_count": 11526,
+    "stargazers_count": 11545,
     "open_issues_count": 84,
-    "forks_count": 496
+    "forks_count": 497
   },
   {
     "full_name": "dotenv-linter/dotenv-linter",
-    "stargazers_count": 1722,
-    "open_issues_count": 9,
-    "forks_count": 146
+    "stargazers_count": 1723,
+    "open_issues_count": 10,
+    "forks_count": 145
   },
   {
     "full_name": "rust-lang/rust-analyzer",
-    "stargazers_count": 13179,
-    "open_issues_count": 1546,
-    "forks_count": 1438
+    "stargazers_count": 13191,
+    "open_issues_count": 1538,
+    "forks_count": 1441
   },
   {
     "full_name": "domitriusclark/mdnext",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "code-hike/codehike",
-    "stargazers_count": 4145,
+    "stargazers_count": 4151,
     "open_issues_count": 49,
     "forks_count": 125
   }
