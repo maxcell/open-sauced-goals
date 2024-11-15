@@ -2,14 +2,14 @@
   {
     "full_name": "kaosat-dev/Blenvy",
     "stargazers_count": 600,
-    "open_issues_count": 46,
+    "open_issues_count": 47,
     "forks_count": 55
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 15199,
+    "stargazers_count": 15241,
     "open_issues_count": 96,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "xanderjl/p5-starter",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 74178,
-    "open_issues_count": 3956,
-    "forks_count": 2772
+    "stargazers_count": 74245,
+    "open_issues_count": 3968,
+    "forks_count": 2770
   },
   {
     "full_name": "bagder/uncurled",
@@ -43,27 +43,27 @@
   },
   {
     "full_name": "rhaiscript/rhai",
-    "stargazers_count": 3828,
+    "stargazers_count": 3831,
     "open_issues_count": 41,
     "forks_count": 180
   },
   {
     "full_name": "haimgel/display-switch",
-    "stargazers_count": 2884,
-    "open_issues_count": 11,
+    "stargazers_count": 2894,
+    "open_issues_count": 12,
     "forks_count": 112
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 3903,
+    "stargazers_count": 3907,
     "open_issues_count": 127,
     "forks_count": 138
   },
   {
     "full_name": "dtolnay/proc-macro-workshop",
-    "stargazers_count": 4204,
+    "stargazers_count": 4212,
     "open_issues_count": 2,
-    "forks_count": 1061
+    "forks_count": 1062
   },
   {
     "full_name": "georgedoescode/generative-utils",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "stevenpetryk/mafs",
-    "stargazers_count": 3236,
+    "stargazers_count": 3241,
     "open_issues_count": 27,
     "forks_count": 90
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 67184,
+    "stargazers_count": 67206,
     "open_issues_count": 5,
-    "forks_count": 9122
+    "forks_count": 9127
   },
   {
     "full_name": "eyre-rs/color-eyre",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "rustwasm/wasm-bindgen",
-    "stargazers_count": 7809,
+    "stargazers_count": 7816,
     "open_issues_count": 450,
-    "forks_count": 1076
+    "forks_count": 1075
   },
   {
     "full_name": "toastdotdev/toast",
@@ -139,19 +139,19 @@
   },
   {
     "full_name": "cargo-generate/cargo-generate",
-    "stargazers_count": 1958,
+    "stargazers_count": 1966,
     "open_issues_count": 38,
     "forks_count": 163
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 30797,
+    "stargazers_count": 30823,
     "open_issues_count": 170,
-    "forks_count": 1429
+    "forks_count": 1430
   },
   {
     "full_name": "keycastr/keycastr",
-    "stargazers_count": 12740,
+    "stargazers_count": 12755,
     "open_issues_count": 80,
     "forks_count": 518
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "rust-lang/rust-analyzer",
-    "stargazers_count": 14277,
-    "open_issues_count": 1703,
-    "forks_count": 1609
+    "stargazers_count": 14290,
+    "open_issues_count": 1709,
+    "forks_count": 1608
   },
   {
     "full_name": "domitriusclark/mdnext",
