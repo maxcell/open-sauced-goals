@@ -2,19 +2,19 @@
   {
     "full_name": "KnightHacks/forge",
     "stargazers_count": 11,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 22
   },
   {
     "full_name": "kaosat-dev/Blenvy",
-    "stargazers_count": 728,
+    "stargazers_count": 731,
     "open_issues_count": 47,
     "forks_count": 79
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 16217,
-    "open_issues_count": 92,
+    "stargazers_count": 16239,
+    "open_issues_count": 93,
     "forks_count": 281
   },
   {
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 77469,
-    "open_issues_count": 4686,
-    "forks_count": 3021
+    "stargazers_count": 77510,
+    "open_issues_count": 4712,
+    "forks_count": 3028
   },
   {
     "full_name": "bagder/uncurled",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "rhaiscript/rhai",
-    "stargazers_count": 4517,
+    "stargazers_count": 4522,
     "open_issues_count": 44,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "haimgel/display-switch",
-    "stargazers_count": 3027,
+    "stargazers_count": 3030,
     "open_issues_count": 17,
     "forks_count": 115
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 4009,
+    "stargazers_count": 4013,
     "open_issues_count": 137,
     "forks_count": 143
   },
   {
     "full_name": "dtolnay/proc-macro-workshop",
-    "stargazers_count": 4444,
+    "stargazers_count": 4446,
     "open_issues_count": 2,
-    "forks_count": 1120
+    "forks_count": 1122
   },
   {
     "full_name": "georgedoescode/generative-utils",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "BenDMyers/showmy.chat",
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 30,
     "forks_count": 24
   },
   {
     "full_name": "stevenpetryk/mafs",
-    "stargazers_count": 3295,
+    "stargazers_count": 3299,
     "open_issues_count": 25,
     "forks_count": 91
   },
   {
     "full_name": "rylev/DMG-01",
-    "stargazers_count": 229,
+    "stargazers_count": 230,
     "open_issues_count": 42,
     "forks_count": 20
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 68480,
+    "stargazers_count": 68500,
     "open_issues_count": 2,
-    "forks_count": 9262
+    "forks_count": 9264
   },
   {
     "full_name": "eyre-rs/color-eyre",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "rustwasm/wasm-bindgen",
-    "stargazers_count": 8170,
-    "open_issues_count": 508,
-    "forks_count": 1104
+    "stargazers_count": 8177,
+    "open_issues_count": 509,
+    "forks_count": 1105
   },
   {
     "full_name": "toastdotdev/toast",
@@ -133,45 +133,45 @@
   },
   {
     "full_name": "ChristopherBiscardi/toast",
-    "stargazers_count": 158,
+    "stargazers_count": 157,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "jstime/jstime",
     "stargazers_count": 314,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 23
   },
   {
     "full_name": "cargo-generate/cargo-generate",
-    "stargazers_count": 2120,
-    "open_issues_count": 45,
-    "forks_count": 175
+    "stargazers_count": 2121,
+    "open_issues_count": 44,
+    "forks_count": 176
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 31455,
+    "stargazers_count": 31462,
     "open_issues_count": 149,
     "forks_count": 1442
   },
   {
     "full_name": "keycastr/keycastr",
-    "stargazers_count": 13484,
+    "stargazers_count": 13501,
     "open_issues_count": 81,
     "forks_count": 537
   },
   {
     "full_name": "dotenv-linter/dotenv-linter",
-    "stargazers_count": 1900,
-    "open_issues_count": 28,
+    "stargazers_count": 1901,
+    "open_issues_count": 29,
     "forks_count": 154
   },
   {
     "full_name": "rust-lang/rust-analyzer",
-    "stargazers_count": 14929,
-    "open_issues_count": 1806,
-    "forks_count": 1727
+    "stargazers_count": 14936,
+    "open_issues_count": 1802,
+    "forks_count": 1730
   },
   {
     "full_name": "domitriusclark/mdnext",
